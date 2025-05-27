@@ -146,7 +146,10 @@ IRC isn't just a protocol - it's a testament to the power of simple, well-design
 *"In the beginning was the Word, and the Word was sent via PRIVMSG"* 🌟
 
 <h1>FEEL FREE TO TRY IT </h1>
-<P>git clone .... </P>
-<p>cd cloned-repo</p>
-<p>cd cloned-repo</p>
-<p>make</p>
+<h2> git clone git@github.com:oussama22x/IRC-.git IRC</h2>
+<h2>cd IRC</h2>
+<h2>make</h2>
+<h2>./ircserv 8080 1234</h2>
+<h2>open new Terminal</h2>
+<h2>nc 127.0.0.1 8080 1234</h2>
+<h2>/bot</h2> #to see all the commands
