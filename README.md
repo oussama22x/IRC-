@@ -178,10 +178,5 @@ nc 127.0.0.1 8080 1234
 
 **🤖 Pro Tip**: The `/bot` command reveals all the hidden powers at your disposal!
 
-### **🌟 What Awaits You**
 
-Once connected, you'll enter a world where every command opens new possibilities. Experiment, explore, and watch as your messages traverse the digital realm in real-time.
-
----
-
-*Ready to become part of the IRC legacy? Your journey begins with a single command...* ✨
+*Ready to become part of the IRC legacy? GIve it a try ✨
